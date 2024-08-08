@@ -7,3 +7,8 @@ the raw frames includes several frames from different prespectives.
 I mosaic them first using my mosaic algorithm, then use the whole mosaic image as the input for this algorithm
 
 output: segmented kernels, overlay kernels, count how many kernels in total, and the features of each kernels.
+
+the actual count is 629, prediction is 617
+
+Hence the accuracy is 98.09%
+
