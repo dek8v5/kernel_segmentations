@@ -1,6 +1,6 @@
 # kernel_segmentations
 
-this is a simple code to segment kernel above black background. 
+this is a simple code to segment kernel on a black background. 
 
 the raw frames includes several frames from different prespectives. 
 
